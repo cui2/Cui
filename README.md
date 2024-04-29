@@ -35,6 +35,7 @@
 <body>
     <header>
         <h1>My Portfolio</h1>
+        <a href=Portfolio.html">Portfolio</a><span class="separator"></span>
     </header>
     
     <section>
