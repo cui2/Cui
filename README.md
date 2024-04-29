@@ -1,5 +1,4 @@
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -40,14 +39,12 @@
     
     <section>
         <h2>About Me</h2>
-        <p>Describe yourself here. Mention your skills, experiences, and interests.</p>
+        <p>Hi im Cui. .</p>
     </section>
 
     <section>
         <h2>Projects</h2>
-        <p>Project 1 - Description</p>
-        <p>Project 2 - Description</p>
-        <p>More projects can be listed here.</p>
+      
     </section>
 
     <section>
@@ -55,9 +52,5 @@
         <p>Email: <a href="mailto:your.email@example.com">your.email@example.com</a></p>
         <p>LinkedIn: <a href="https://www.linkedin.com/in/yourprofile">yourprofile</a></p>
     </section>
-
-    <footer>
-        <p>Copyright &copy; 2024 by Your Name</p>
-    </footer>
 </body>
 </html>
