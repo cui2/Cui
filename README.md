@@ -49,8 +49,7 @@
 
     <section>
         <h2>Contact</h2>
-        <p>Email: <a href="mailto:your.email@example.com">your.email@example.com</a></p>
-        <p>LinkedIn: <a href="https://www.linkedin.com/in/yourprofile">yourprofile</a></p>
+        <p>Discord: <a href="mailto:cui2🐈"></a></p>
     </section>
 </body>
 </html>
