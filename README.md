@@ -49,7 +49,7 @@
 
     <section>
         <h2>Contact</h2>
-        <p>Discord: <a href="mailto:cui2🐈"></a></p>
+        <p>Discord: <a href="mailto:cui2🐈">cui2</a></p>
     </section>
 </body>
 </html>
